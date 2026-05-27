@@ -1,0 +1,65 @@
+{
+    "G1MoveToTarget": {
+        "checkpoints": [
+            {
+                "steps": 1999936,
+                "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-1999936.onnx",
+                "reward": null,
+                "creation_time": 1779853768.6040177,
+                "auxillary_file_paths": [
+                    "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-2499968.onnx",
+                "reward": null,
+                "creation_time": 1779858380.6512887,
+                "auxillary_file_paths": [
+                    "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999936,
+                "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-2999936.onnx",
+                "reward": null,
+                "creation_time": 1779862998.9020052,
+                "auxillary_file_paths": [
+                    "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-2999936.pt"
+                ]
+            },
+            {
+                "steps": 3499968,
+                "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-3499968.onnx",
+                "reward": null,
+                "creation_time": 1779867612.0297794,
+                "auxillary_file_paths": [
+                    "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3500032,
+                "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-3500032.onnx",
+                "reward": null,
+                "creation_time": 1779867612.0821602,
+                "auxillary_file_paths": [
+                    "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-3500032.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3500032,
+            "file_path": "results\\g1_walk_joints_1\\G1MoveToTarget.onnx",
+            "reward": null,
+            "creation_time": 1779867612.0821602,
+            "auxillary_file_paths": [
+                "results\\g1_walk_joints_1\\G1MoveToTarget\\G1MoveToTarget-3500032.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
