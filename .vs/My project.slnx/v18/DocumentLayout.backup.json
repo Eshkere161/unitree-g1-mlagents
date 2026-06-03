@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projectCD\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\projectcd\\my project\\assets\\g1_description-main\\urdf\\g1simpleagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\g1_description-main\\urdf\\g1simpleagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\projectcd\\my project\\assets\\g1balanceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\g1balanceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "G1SimpleAgent.cs",
-              "DocumentMoniker": "C:\\projectCD\\My project\\Assets\\g1_description-main\\urdf\\G1SimpleAgent.cs",
-              "RelativeDocumentMoniker": "Assets\\g1_description-main\\urdf\\G1SimpleAgent.cs",
-              "ToolTip": "C:\\projectCD\\My project\\Assets\\g1_description-main\\urdf\\G1SimpleAgent.cs",
-              "RelativeToolTip": "Assets\\g1_description-main\\urdf\\G1SimpleAgent.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwHcAAAABAAAAAAAAAA==",
+              "Title": "G1BalanceAgent.cs",
+              "DocumentMoniker": "C:\\projectCD\\My project\\Assets\\G1BalanceAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\G1BalanceAgent.cs",
+              "ToolTip": "C:\\projectCD\\My project\\Assets\\G1BalanceAgent.cs",
+              "RelativeToolTip": "Assets\\G1BalanceAgent.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwKEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:26:19.205Z",
+              "WhenOpened": "2026-06-02T20:38:30.872Z",
               "EditorCaption": ""
             }
           ]

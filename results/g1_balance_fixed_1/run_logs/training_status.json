@@ -1,0 +1,65 @@
+{
+    "G1Balance": {
+        "checkpoints": [
+            {
+                "steps": 1999973,
+                "file_path": "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-1999973.onnx",
+                "reward": 2.923430532338668,
+                "creation_time": 1780453748.6773293,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-1999973.pt"
+                ]
+            },
+            {
+                "steps": 2499990,
+                "file_path": "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-2499990.onnx",
+                "reward": 3.0405897925950023,
+                "creation_time": 1780458477.1611142,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-2499990.pt"
+                ]
+            },
+            {
+                "steps": 2999983,
+                "file_path": "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-2999983.onnx",
+                "reward": 3.064710689474035,
+                "creation_time": 1780463209.4302316,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-2999983.pt"
+                ]
+            },
+            {
+                "steps": 3499998,
+                "file_path": "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-3499998.onnx",
+                "reward": 3.0895973763434714,
+                "creation_time": 1780467938.160011,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-3499998.pt"
+                ]
+            },
+            {
+                "steps": 3968107,
+                "file_path": "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-3968107.onnx",
+                "reward": 3.1195516781560304,
+                "creation_time": 1780472366.3631423,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-3968107.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3968107,
+            "file_path": "results\\g1_balance_fixed_1\\G1Balance.onnx",
+            "reward": 3.1195516781560304,
+            "creation_time": 1780472366.3631423,
+            "auxillary_file_paths": [
+                "results\\g1_balance_fixed_1\\G1Balance\\G1Balance-3968107.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

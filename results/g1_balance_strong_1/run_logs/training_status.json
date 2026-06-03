@@ -1,0 +1,29 @@
+{
+    "G1Balance": {
+        "checkpoints": [
+            {
+                "steps": 226257,
+                "file_path": "results\\g1_balance_strong_1\\G1Balance\\G1Balance-226257.onnx",
+                "reward": 6.238986651102702,
+                "creation_time": 1780479216.5915086,
+                "auxillary_file_paths": [
+                    "results\\g1_balance_strong_1\\G1Balance\\G1Balance-226257.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 226257,
+            "file_path": "results\\g1_balance_strong_1\\G1Balance.onnx",
+            "reward": 6.238986651102702,
+            "creation_time": 1780479216.5915086,
+            "auxillary_file_paths": [
+                "results\\g1_balance_strong_1\\G1Balance\\G1Balance-226257.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
